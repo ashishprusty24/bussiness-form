@@ -1,0 +1,36 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "username": "ashish",
+      "email": "a@gmail.com",
+      "age": 12,
+      "password": 2345,
+      "number": 2334
+    },
+    {
+      "id": 2,
+      "username": "vikash",
+      "email": "a@gmail.com",
+      "age": 12,
+      "password": 2345,
+      "number": 2334
+    },
+    {
+      "text": "dfsdf",
+      "iscompleted": false,
+      "id": 3
+    },
+    {
+      "kk": 1,
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "username": "fgfgh",
+      "id": 6
+    }
+  ]
+}
